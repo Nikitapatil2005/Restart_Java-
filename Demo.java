@@ -6,8 +6,6 @@ class Calculator{
     }
 }
 
-
-
 public class Demo{
     public static void main (String[] args){
       int num1 =10;
